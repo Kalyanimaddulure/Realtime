@@ -5,8 +5,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Admin</members>
-        <members>Analytics Cloud Security User</members>
+        <members>MarketingProfile</members>
         <name>Profile</name>
     </types>
     <version>59.0</version>
