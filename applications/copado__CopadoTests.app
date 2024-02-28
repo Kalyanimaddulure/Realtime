@@ -55,7 +55,6 @@
     </actionOverrides>
     <brand>
         <headerColor>#2463EB</headerColor>
-        <logo>copado__CopadoTestAppIcon</logo>
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
     </brand>
@@ -65,6 +64,7 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>Copado Tests</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>

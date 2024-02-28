@@ -47,7 +47,6 @@
     </actionOverrides>
     <brand>
         <headerColor>#00C3EF</headerColor>
-        <logo>copado__Copado_App_Icon_Deliver</logo>
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
     </brand>
@@ -56,6 +55,7 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>Copado Release Manager</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
